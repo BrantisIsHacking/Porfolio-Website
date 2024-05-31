@@ -1,8 +1,26 @@
 import React from 'react';
 import '../styles/Navigation.css';
+import { Link } from 'react-router-dom';
 
-const Home = () => {
-  // ...
+const Navigation = () => {
+  return (
+    <nav className="navigation">
+      <ul>
+        <li>
+          <Link to="/">Home</Link>
+        </li>
+        <li>
+          <Link to="/about">About</Link>
+        </li>
+        <li>
+          <Link to="/projects">Projects</Link>
+        </li>
+        <li>
+          <Link to="/contact">Contact</Link>
+        </li>
+      </ul>
+    </nav>
+  );
 };
 
-export default Home;
+export default Navigation;
