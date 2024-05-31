@@ -6,7 +6,7 @@ const About = () => {
     <div className="about-container">
       <h2>About Me</h2>
       <p>
-        Hi, I'm Brayden Uglione, a passionate and accomplished student currently attending the Academy of Computer and Information Sciences at Morris County School of Technology. With a strong academic record, including a 3.97 unweighted GPA and achieving High Honor Roll consistently, I have demonstrated excellence in my studies.
+        Hi, I'm Brayden Uglione, a passionate and accomplished student currently attending the Academy of Computer and Information Sciences at Morris County School of Technology. With a strong academic record, including a 3.91 unweighted GPA and achieving High Honor Roll consistently, I have demonstrated excellence in my studies.
       </p>
       <p>
         My diverse experiences, ranging from event coordination and machine learning research internships to robotics programming and hackathon participation, have equipped me with a unique skillset. I possess proficiency in various coding languages such as Java, Python, HTML, CSS, JavaScript, C++, and R, as well as familiarity with software like R Studio, Vegas Pro, Photoshop, Microsoft Office, and Google Suite.
