@@ -17,23 +17,25 @@ export const ContactUs = () => {
     variant: "",
   });
 
+  // ...
+
   const handleSubmit = (e) => {
     e.preventDefault();
     setFormdata({ loading: true });
-
+  
     const templateParams = {
       from_name: formData.email,
       user_name: formData.name,
       to_name: contactConfig.YOUR_EMAIL,
       message: formData.message,
     };
-
+  
     emailjs
       .send(
-        contactConfig.YOUR_SERVICE_ID,
+        "service_naypbig",
         contactConfig.YOUR_TEMPLATE_ID,
         templateParams,
-        contactConfig.YOUR_USER_ID
+        "rRiE42A8JvHS_sPLt"
       )
       .then(
         (result) => {
