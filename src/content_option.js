@@ -77,16 +77,21 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://example.com/project1.jpg",
-        description: "A machine learning model for detecting brain cancer, hemorrhages, and scoliosis in CT scans and X-rays.",
-        link: "#",
+        img: "https://imageio.forbes.com/specials-images/imageserve/643016813686d8eafca00875//960x0.jpg?height=473&width=711&fit=bounds",
+        description: "A responsive AI assistant capable of promptly and accurately executing user commands by accessing the Internet, listening attentively, and working efficiently in a professional setting.",
+        link: "https://github.com/Nishit-Sharma/NJTSA-Software-Development-LocalHost",
+    },
+    
+    {
+        img: "https://njtsa-coding-2024.vercel.app/static/media/logo.07b2494deb9f4693ec57.png",
+        description: "An interactive website that allows users to explore the wonders of NJ and it's most iconic landmarks.",
+        link: "https://njtsa-coding-2024.vercel.app/",
     },
     {
-        img: "https://example.com/project2.jpg",
-        description: "A COVID-19 database for storing, managing, retrieving, and displaying pandemic-related data.",
-        link: "#",
+        img: "https://imageio.forbes.com/specials-images/imageserve/643016813686d8eafca00875//960x0.jpg?height=473&width=711&fit=bounds",
+        description: "A responsive AI assistant capable of promptly and accurately executing user commands by accessing the Internet, listening attentively, and working efficiently in a professional setting.",
+        link: "https://github.com/Nishit-Sharma/NJTSA-Software-Development-LocalHost",
     },
-    // Add more projects as needed
 ];
 
 const contactConfig = {
