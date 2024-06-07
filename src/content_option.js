@@ -77,7 +77,7 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://imageio.forbes.com/specials-images/imageserve/643016813686d8eafca00875//960x0.jpg?height=473&width=711&fit=bounds",
+        img: "https://media.licdn.com/dms/image/D560BAQEQwmi-oI7D1g/company-logo_200_200/0/1680551155101/alphagroup_ai_logo?e=2147483647&v=beta&t=JIFmSBg5ZoKz0PIIdoShG7zB2TQZzANWBCpTh4gp3Ak",
         description: "A responsive AI assistant capable of promptly and accurately executing user commands by accessing the Internet, listening attentively, and working efficiently in a professional setting.",
         link: "https://github.com/Nishit-Sharma/NJTSA-Software-Development-LocalHost",
     },
@@ -88,9 +88,14 @@ const dataportfolio = [{
         link: "https://njtsa-coding-2024.vercel.app/",
     },
     {
-        img: "https://imageio.forbes.com/specials-images/imageserve/643016813686d8eafca00875//960x0.jpg?height=473&width=711&fit=bounds",
-        description: "A responsive AI assistant capable of promptly and accurately executing user commands by accessing the Internet, listening attentively, and working efficiently in a professional setting.",
-        link: "https://github.com/Nishit-Sharma/NJTSA-Software-Development-LocalHost",
+        img: "https://bobotique-github-athon.vercel.app/static/media/icooked.51e71b044064d7bb7c60.png",
+        description: "A intuitive shopping website that allows users to browse and purchase a variety of designer products.",
+        link: "https://bobotique-github-athon.vercel.app/",
+    },
+    {
+        img: "https://github.com/JustKorolev/Clairvoyant-MedicalScan-YOLO/blob/main/app/static/images/clairvoyant-logo.png?raw=true",
+        description: "An AI object detection model to identify brain tumors, brain hemorrhages, & scoliosis from medical images.",
+        link: "https://github.com/JustKorolev/Clairvoyant-MedicalScan-YOLO",
     },
 ];
 
