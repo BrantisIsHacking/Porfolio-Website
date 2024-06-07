@@ -77,7 +77,7 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://media.licdn.com/dms/image/D560BAQEQwmi-oI7D1g/company-logo_200_200/0/1680551155101/alphagroup_ai_logo?e=2147483647&v=beta&t=JIFmSBg5ZoKz0PIIdoShG7zB2TQZzANWBCpTh4gp3Ak",
+        img: "https://play-lh.googleusercontent.com/znmIbBlC6gP6AoYh-To8Qn__jqm3ss10YYXyB34zDThpFTMUmGt7cMaM4th6rDJSNA=w240-h480-rw",
         description: "A responsive AI assistant capable of promptly and accurately executing user commands by accessing the Internet, listening attentively, and working efficiently in a professional setting.",
         link: "https://github.com/Nishit-Sharma/NJTSA-Software-Development-LocalHost",
     },
