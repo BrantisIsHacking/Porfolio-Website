@@ -12,7 +12,7 @@ const introdata = {
         third: "I'm a lifelong learner",
     },
     description: "As a high school student at the Academy of Computer and Information Sciences, I'm dedicated to exploring the vast possibilities in the world of technology.",
-    your_img_url: "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    your_img_url: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2p5dXl2aWQ4eWJwMTBtaDh1azVqamE2bjk5OTVuaG5nczQ1YjVpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FHocq92ifGKrA2XmoD/giphy.gif",
 };
 
 const dataabout = {
