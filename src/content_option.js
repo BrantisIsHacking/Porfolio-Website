@@ -1,3 +1,5 @@
+import Image1 from "./assets/images/icooked.51e71b044064d7bb7c60.png";
+
 const logotext = "BRAYDEN";
 const meta = {
     title: "Brayden Uglione",
@@ -77,7 +79,7 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://play-lh.googleusercontent.com/znmIbBlC6gP6AoYh-To8Qn__jqm3ss10YYXyB34zDThpFTMUmGt7cMaM4th6rDJSNA=w240-h480-rw",
+        img: Image1,
         description: "A responsive AI assistant capable of promptly and accurately executing user commands by accessing the Internet, listening attentively, and working efficiently in a professional setting.",
         link: "https://github.com/Nishit-Sharma/NJTSA-Software-Development-LocalHost",
     },
@@ -88,7 +90,7 @@ const dataportfolio = [{
         link: "https://njtsa-coding-2024.vercel.app/",
     },
     {
-        img: "https://bobotique-github-athon.vercel.app/static/media/icooked.51e71b044064d7bb7c60.png",
+        img: Image1,
         description: "A intuitive shopping website that allows users to browse and purchase a variety of designer products.",
         link: "https://bobotique-github-athon.vercel.app/",
     },
