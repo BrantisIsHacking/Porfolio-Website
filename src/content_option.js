@@ -79,7 +79,7 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: Image1,
+        img: "https://play-lh.googleusercontent.com/znmIbBlC6gP6AoYh-To8Qn__jqm3ss10YYXyB34zDThpFTMUmGt7cMaM4th6rDJSNA=w240-h480-rw",
         description: "A responsive AI assistant capable of promptly and accurately executing user commands by accessing the Internet, listening attentively, and working efficiently in a professional setting.",
         link: "https://github.com/Nishit-Sharma/NJTSA-Software-Development-LocalHost",
     },
