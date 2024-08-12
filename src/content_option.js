@@ -113,7 +113,7 @@ const contactConfig = {
 const socialprofils = {
     github: "https://github.com/BrantisIsHacking",
     instagram: "https://instagram.com/braydenuglione",
-    linkedin: "https://www.linkedin.com/in/brayden-uglione-6363582a9/",
+    linkedin: "https://www.linkedin.com/in/brayden-uglione/",
 };
 export {
     meta,
